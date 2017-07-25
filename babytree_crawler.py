@@ -6,6 +6,7 @@ Created on 2017-07-17
 @author: SueWang
 功能: 使用requests库爬取宝宝树网的搜索结果，抓取最近一天内发布的帖子
 网址：http://www.babytree.com/
+2017-07-25 注意IP访问问题 防止被封
 """
 import os
 import re
