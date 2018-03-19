@@ -65,8 +65,8 @@ message['from']='suewang@live.hk'
 message['to'] = 'suetsubasa1@yahoo.com'
 
 mail_host = "smtp-mail.outlook.com:587"
-mail_user = 'suewang@live.hk'
-mail_pw = '199139whj'
+mail_user = XXXX
+mail_pw = XXXX
 
 
 s = smtplib.SMTP(mail_host)
