@@ -195,8 +195,8 @@ if __name__ == '__main__':
     
 
     #定义变量
-    username = 'suetsubasa@yahoo.com.cn'             #输入你的用户名
-    password = 'sakura199139'               #输入你的密码
+    username = XXXX             #输入你的用户名
+    password = XXXX              #输入你的密码
     driver = webdriver.Firefox(executable_path = 'C:/ProgramData/Anaconda3/' + 
                                'selenium/webdriver/firefox/geckodriver.exe', 
                                log_path = None)
